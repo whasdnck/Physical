@@ -1,23 +1,29 @@
 # Physical
 ### 오늘은 신체 검사할수 있는 코딩을했다.
+### 클래스와 인스턴스를 활용하여 사용자에게 입력받은 이름, 키, 시력, 전체 평균키를 출력했다.
+### 0.0부터 0.1씩 2.0까지 총 21개의 배열방을 만들어 특정 시력이 몇명인지 각 배열방의 갯수 증가 했다.
+### 배열방의 갯수를 증가시키는 방법은 시력이 0.7이라는 사람을 0.7에 10을 곱하면 7이라는 값이 나오기 때문에 7번 배열방의 갯수를 증가시켜주는 방법이다.
+### 그 후 다시 시력을 출력할때는 printf문을 이용하여 소수점 첫째자리 까지 float형식으로 출력한다.
 
-### 생성할 수 있는 코드를 만들었다.
-
-### 클래스를 사용하여 this.name, this.height, this.vision 를 선언했다.
-![화면 캡처 2023-03-17 101458](https://user-images.githubusercontent.com/127116197/225787251-1c841dea-b384-4c63-ab19-28d4e4744845.png)
-
-### 키의 평균값을 구하는 코드를 만들었다.
-
-![화면 캡처 2023-03-17 101653](https://user-images.githubusercontent.com/127116197/225787454-e66b2796-4bf4-4251-9d3d-c18aed77c9d9.png)
-
-### 시력의 분포를 구하는 코드를 만들었다.
-
-![Tlqkf](https://user-images.githubusercontent.com/127116197/225787537-962530a5-561b-4ec2-bb4b-3f19633cbf64.png)
-
-### 시력의 분포를 구하는 메인 코드를 만들었다.
-
-![kjaflafkahj](https://user-images.githubusercontent.com/127116197/225787719-31dba53c-120c-4829-9d3f-0558670f5db8.png)
+# "클래스, 생성자"
+![ㅎㅇ](https://user-images.githubusercontent.com/127116197/225798688-6737963f-0724-4e22-ac0a-6e9dad9f4508.png)
 
 
-# 신체 검사 코딩 출력
-![dark fruit](https://user-images.githubusercontent.com/127116197/225796645-c10b787e-7b45-4843-b755-27262b3ab553.png)
+# "키의 평균"
+![ajh](https://user-images.githubusercontent.com/127116197/225798913-11669a13-09b0-44b6-8d52-ae10697ba5e3.png)
+
+# "시력 배열"
+![aksdhdkajd](https://user-images.githubusercontent.com/127116197/225799135-fe953573-bdc9-4c8d-b05f-3cc2b511d3bb.png)
+
+
+# "객체생성"
+![fjhkakafafhahfjasjhfljaskfsahklakhjfhlhlhffhlfhlahfhfhfahlflash](https://user-images.githubusercontent.com/127116197/225799350-98fbfd39-4742-4677-81ca-9facfcd7c0ce.png)
+
+# "이름, 키, 시력, 평균키 출력"
+![12314](https://user-images.githubusercontent.com/127116197/225799565-7430872d-a6bf-4202-9813-e135f029c360.png)
+
+# "시력 배열방"
+![456646545645](https://user-images.githubusercontent.com/127116197/225799721-1f3b0b1f-b17d-4563-aaa8-e133c15dcf85.png)
+
+# 출력문 
+![lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll](https://user-images.githubusercontent.com/127116197/225800003-61516bfa-6e4e-4615-ae5b-f6ba66b9f176.png)
