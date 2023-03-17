@@ -27,3 +27,6 @@
 
 # 출력문 
 ![lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll](https://user-images.githubusercontent.com/127116197/225800003-61516bfa-6e4e-4615-ae5b-f6ba66b9f176.png)
+
+# 전체 코드
+![abjfqhk](https://user-images.githubusercontent.com/127116197/225801126-565c5849-5e86-4444-8419-4944a819d3a2.png)
